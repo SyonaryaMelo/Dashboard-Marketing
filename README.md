@@ -25,22 +25,26 @@ Serão criados diversos relatórios divididos em **4 visões**:
 
 ### 1. Visão do Cliente
 - Compreensão das variáveis relacionadas aos clientes.
-- Criação de gráficos e métricas para análise individual.  
+- Criação de gráficos e métricas para análise individual.
+  
 ![Visão do Cliente](img/visao-cliente.png)
 
 ### 2. Visão do Comportamento de Compra do Cliente
 - Análise do comportamento de compra ao longo do tempo.
-- Cruzamento de dados para identificar padrões.  
+- Cruzamento de dados para identificar padrões.
+  
 ![Visão do Comportamento de Compra](img/visao-comportamento.png)
 
 ### 3. Visão da Performance das Campanhas de Marketing
 - Avaliação da efetividade das campanhas.
-- Indicadores e métricas de performance.  
+- Indicadores e métricas de performance.
+  
 ![Visão da Performance](img/visao-campanhas.png)
 
 ### 4. Visão dos Padrões de Compra no Ponto de Venda (País)
 - Análise geográfica e por ponto de venda.
-- Extração de insights sobre padrões de compra.  
+- Extração de insights sobre padrões de compra.
+  
 ![Visão dos Padrões de Compra](img/visao-padroes.png)
 
 
