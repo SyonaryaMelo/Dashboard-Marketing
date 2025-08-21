@@ -1,9 +1,7 @@
 # Análise de Campanhas de Marketing com Power BI
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-orange?style=flat-square)](https://powerbi.microsoft.com/)
-[![DSA](https://img.shields.io/badge/DSA-Data%20Science%20Academy-blue?style=flat-square)](https://www.datascienceacademy.com.br/)
 
-Mini-Projeto de  **análise de campanhas de Marketing com o Power BI**.
+Projeto de  **análise de campanhas de Marketing com o Power BI**.
 
 O projeto apresenta **4 Dashboards**, com **10 elementos visuais**, customizações, formatações, correções nos dados e diferentes recursos do Power BI.  
 
